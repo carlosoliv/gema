@@ -53,5 +53,3 @@ When these environment URLs have been defined, just start the app with:
 ```
 This will start the app, opening the port 8888 for the users to connect to, acording to the #quickstart.
 
-# Questions?
-If you have any questions or suggestions, please feel free to email us at qaas at stone.com.br.
